@@ -1,10 +1,10 @@
-#-------------------------------------------------------
-#FreeIP2LocationFirewallListbyCountry
-#Source:https://www.ip2location.com/free/visitor-blocker
-#LastGenerated:25May202509:05:16GMT
-#[Important]Pleaseupdatethislisteverymonth
-#RU - Juniper Junsos
-#-------------------------------------------------------
+# -------------------------------------------------------
+# FreeIP2LocationFirewallListbyCountry
+# Source:https://www.ip2location.com/free/visitor-blocker
+# LastGenerated:25May202509:05:16GMT
+# [Important]Pleaseupdatethislisteverymonth
+# RU - Juniper Junos
+# -------------------------------------------------------
 2.16.20.0/23
 2.16.53.0/24
 2.16.103.0/24
